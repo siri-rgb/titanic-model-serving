@@ -18,7 +18,7 @@ https://www.kaggle.com/competitions/titanic/data
 7. python client.py
 
 ## Results
-- Model: Random Forest, accuracy: (nee accuracy ikkada rayi)
+- Model: Random Forest, accuracy: (0.8156424581005587)
 - Batch predictions saved in batch_predictions.csv
 - API endpoints: GET /health, POST /predict
 - Screenshots are in the screenshots folder
